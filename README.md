@@ -19,3 +19,10 @@ O seu programa deverá cálcular corretamente os valores dos métodos da classe 
 
 ## Solução
 O código está pela metade, e você deverá dar continuidade obedecendo as regras descritas acima, para que no final, tenhamos um programa funcional. Procure pela palavra comentada "TODO" no código, em seguida, implemente conforme as regras acima.
+
+### Completei e testei o código. Segue print do código funcionando.
+
+![DesafioPojeto](https://github.com/user-attachments/assets/c777a936-e3f5-48b2-9aaf-0acdffb90b30)
+
+
+
